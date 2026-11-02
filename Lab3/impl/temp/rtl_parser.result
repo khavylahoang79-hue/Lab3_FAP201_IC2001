@@ -1,0 +1,38 @@
+[
+ {
+  "InstFile" : "D:/Ki4/FAP/Lab3/src/Lab3tb.v",
+  "InstLine" : 2,
+  "InstName" : "Lab3_tb",
+  "ModuleFile" : "D:/Ki4/FAP/Lab3/src/Lab3tb.v",
+  "ModuleLine" : 2,
+  "ModuleName" : "Lab3_tb",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/Ki4/FAP/Lab3/src/Lab3tb.v",
+    "InstLine" : 7,
+    "InstName" : "uut",
+    "ModuleFile" : "D:/Ki4/FAP/Lab3/src/Lab3.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "Lab3"
+   }
+  ]
+ },
+ {
+  "InstFile" : "D:/Ki4/FAP/Lab3/src/Lab3tb.vhd",
+  "InstLine" : 4,
+  "InstName" : "Lab3_tb",
+  "ModuleFile" : "D:/Ki4/FAP/Lab3/src/Lab3tb.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "Lab3_tb",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/Ki4/FAP/Lab3/src/Lab3tb.vhd",
+    "InstLine" : 12,
+    "InstName" : "uut",
+    "ModuleFile" : "D:/Ki4/FAP/Lab3/src/Lab3.vhd",
+    "ModuleLine" : 4,
+    "ModuleName" : "Lab3"
+   }
+  ]
+ }
+]
